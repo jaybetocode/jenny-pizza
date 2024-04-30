@@ -1,2 +1,1 @@
-# jenny-pizza
-practice folder
+# pizza
